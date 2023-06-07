@@ -17,5 +17,5 @@ You can find our portfolio here:
 - [Joey's](https://github.com/TotalTactician/Documentation/blob/main/Portfolio-Joey.md)
 - [Sylvesters](https://github.com/TotalTactician/Documentation/blob/main/portfolio-sylvester.md)
 
-# Startup
+## Startup
 See how to startup the project [here](https://github.com/TotalTactician/Documentation/blob/main/Project%20setup.md).
